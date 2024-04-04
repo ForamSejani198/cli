@@ -39,7 +39,7 @@ export default function HomePage() {
               onSelect={handleTabChange}
               fitted
             >
-              hello
+              hello world
               {tabPanels[selected]}
             </Tabs>
           </Card>
